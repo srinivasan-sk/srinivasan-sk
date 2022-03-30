@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 - 📽 My project **https://kanmanisuvai.netlify.app/**
 
+<hr>
 
 
 <h3 align="left">Connect with me:</h3>
