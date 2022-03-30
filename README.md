@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivasan-sk&show_icons=true&locale=en&layout=compact" alt="srinivasan-sk" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=srinivasan-sk&show_icons=true&locale=en" alt="srinivasan-sk" /></p>
+<p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=srinivasan-sk&show_icons=true&locale=en" alt="srinivasan-sk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasan-sk&" alt="srinivasan-sk" /></p>
 <hr>
