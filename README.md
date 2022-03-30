@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **srinikumaran1995@gmail.com**
 
-- 📽My project kanmanisuvai.netlify.app
+- 📽 My project **kanmanisuvai.netlify.app**
 
 
 
