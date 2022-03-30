@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm srinivasan-sk</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <hr>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer)](https://git.io/typing-svg)
+(https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer)](https://git.io/typing-svg)
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivasan-sk&label=Profile%20views&color=0e75b6&style=flat" alt="srinivasan-sk" /> </p>
